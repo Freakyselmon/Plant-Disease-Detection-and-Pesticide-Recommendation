@@ -1,0 +1,14 @@
+
+tensorflow
+pillow
+numpy
+pandas
+streamlit
+scikit-learn 
+matplotlib
+numpy
+ollama
+
+ # PYTHONPATH=. python app/main.py
+ # PYTHONPATH=. streamlit run webapp/streamlit_app.py
+
