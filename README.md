@@ -160,5 +160,3 @@ Sample Images: Provide sample prediction images to demonstrate how the tool work
 Deployment Instructions: If deploying as a web or mobile app, provide step-by-step instructions for hosting on platforms like Heroku, AWS, or Google Cloud.
 
 # Plant-Disease-Detection-and-Pesticide-Recommendation
-# Plant-Disease-Detection-and-Pesticide-Recommendation
-# Plant-Disease-Detection-and-Pesticide-Recommendation
