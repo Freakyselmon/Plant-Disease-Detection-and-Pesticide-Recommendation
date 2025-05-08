@@ -1,0 +1,59 @@
+Plant Disease,Pesticide,Dosage,Application Method,Frequency,Effective Against
+Tomato Leaf Curl,XYZ Pesticide,2 ml/litre,Foliar spray,Every 7 days,Leaf curl; wilting
+Rice Blast,ABC Fungicide,3 ml/litre,Foliar spray,Every 10 days,Fungal infection; leaf spot
+Apple Scab,DEF Spray,1.5 ml/litre,Soil drench or spray,Every 14 days,Scab lesions on leaves
+Powdery Mildew (Cucumbers),GHI Fungicide,2 ml/litre,Foliar spray,Every 7 days,Powdery mildew on leaves
+Downy Mildew (Grapes),JKL Fungicide,1 ml/litre,Foliar spray,Every 5 days,Downy mildew; leaf spots
+Early Blight (Tomatoes),MNO Fungicide,2.5 ml/litre,Foliar spray,Every 7 days,Early blight; brown lesions
+Fusarium Wilt (Banana),PQR Pesticide,4 ml/litre,Soil drench,Every 14 days,Fusarium wilt; yellowing leaves
+Anthracnose (Papaya),STU Fungicide,3 ml/litre,Foliar spray,Every 10 days,Anthracnose; fruit rotting
+Bacterial Spot (Peppers),VWX Pesticide,2 ml/litre,Foliar spray,Every 7 days,Bacterial infection; leaf spots
+Late Blight (Potatoes),YZA Fungicide,3 ml/litre,Foliar spray,Every 5 days,Late blight; leaf spots
+Leaf Spot (Strawberry),BCD Fungicide,1.5 ml/litre,Foliar spray,Every 14 days,Leaf spots; yellowing
+Root Rot (Carrots),EFG Fungicide,2 ml/litre,Soil drench,Every 10 days,Root rot; wilting
+Cercospora Leaf Spot (Beets),HIJ Fungicide,1.8 ml/litre,Foliar spray,Every 7 days,Leaf spots; yellowing
+Fungal Blight (Lettuce),KLM Pesticide,2 ml/litre,Soil drench or spray,Every 7 days,Fungal infection; leaf spots
+Black Rot (Cabbage),NOP Fungicide,3 ml/litre,Foliar spray,Every 10 days,Black rot; yellowing leaves
+Tomato Wilt (Tomato),QRS Fungicide,3 ml/litre,Soil drench,Every 14 days,Wilt; yellowing of leaves
+Cercospora Leaf Spot (Beans),TUV Fungicide,2.5 ml/litre,Foliar spray,Every 7 days,Leaf spots; yellowing
+Brown Rust (Wheat),WXY Pesticide,2 ml/litre,Foliar spray,Every 5 days,Rust on wheat leaves
+Black Mold (Cotton),ZAB Fungicide,3 ml/litre,Foliar spray,Every 7 days,Black mold; leaf spots
+Mosaic Virus (Cucumber),ACD Virus Spray,1 ml/litre,Foliar spray,Every 7 days,Mosaic virus on cucumber leaves
+Alternaria Leaf Blight (Peas),EFG Fungicide,2.5 ml/litre,Foliar spray,Every 7 days,Leaf blight; yellow spots
+Pythium Root Rot (Tomato),HIJ Fungicide,3 ml/litre,Soil drench,Every 10 days,Root rot; wilting
+Downy Mildew (Spinach),KLM Fungicide,2 ml/litre,Foliar spray,Every 10 days,Downy mildew; leaf spots
+Leaf Blight (Corn),NOP Fungicide,2 ml/litre,Foliar spray,Every 7 days,Leaf blight; yellowing of leaves
+Powdery Mildew (Squash),PQR Pesticide,2.2 ml/litre,Foliar spray,Every 5 days,Powdery mildew; white coating
+Fusarium Wilt (Tomato),STU Fungicide,3 ml/litre,Soil drench,Every 14 days,Fusarium wilt; yellowing leaves
+White Rust (Cabbage),VWX Pesticide,1.5 ml/litre,Soil drench,Every 14 days,White rust; leaf spots
+Plant Disease,Pesticide,Dosage,Application Method,Frequency,Effective Against
+Verticillium Wilt (Eggplant),XYZ Fungicide,2.5 ml/litre,Soil drench,Every 14 days,Wilt; yellowing leaves
+Rust (Beans),ABC Pesticide,2 ml/litre,Foliar spray,Every 7 days,Rust pustules; leaf drop
+Bacterial Wilt (Tomato),DEF Bactericide,3 ml/litre,Soil drench,Every 10 days,Wilt; browning stem base
+Septoria Leaf Spot (Tomato),GHI Fungicide,2 ml/litre,Foliar spray,Every 7 days,Brown spots with yellow halo
+Phytophthora Root Rot (Peppers),JKL Fungicide,3 ml/litre,Soil drench,Every 10 days,Root rot; stunted growth
+Sclerotinia Stem Rot (Sunflower),MNO Pesticide,2.5 ml/litre,Foliar spray,Every 7 days,White mold; stem rot
+Southern Blight (Onion),PQR Fungicide,3 ml/litre,Soil drench,Every 14 days,Rot at base; wilting
+Crown Rot (Alfalfa),STU Fungicide,2 ml/litre,Soil drench,Every 14 days,Crown browning; stunted growth
+Rust (Sorghum),VWX Fungicide,2.5 ml/litre,Foliar spray,Every 7 days,Rust pustules on leaves
+Gummy Stem Blight (Watermelon),YZA Fungicide,3 ml/litre,Foliar spray,Every 10 days,Stem lesions; gummy ooze
+Sooty Mold (Citrus),ZXT Fungicide,2 ml/litre,Foliar spray,Every 7 days,Black mold; reduced photosynthesis
+Clubroot (Cabbage),ABC Root Drench,3 ml/litre,Soil drench,Every 14 days,Root swelling; stunted growth
+Halo Blight (Beans),MNC Bactericide,2 ml/litre,Foliar spray,Every 7 days,Water-soaked spots with halos
+Rust (Coffee),CAF Rust Spray,1.5 ml/litre,Foliar spray,Every 7 days,Rust pustules on leaves
+Bacterial Canker (Tomato),TOM BactoFix,2 ml/litre,Stem injection or foliar,Every 10 days,Canker lesions; wilting
+Sclerotinia Drop (Lettuce),LET Fungiguard,2.5 ml/litre,Foliar spray,Every 10 days,White mold; plant collapse
+Alternaria Black Spot (Cabbage),CAB Alt-Fix,2 ml/litre,Foliar spray,Every 7 days,Black spots with concentric rings
+Red Rot (Sugarcane),SUG Pesticide,3 ml/litre,Stem soak,Every 14 days,Red discoloration; stem rot
+Charcoal Rot (Soybean),SOY Fungiguard,2 ml/litre,Soil drench,Every 14 days,Gray lesions; dry rot
+Pink Bollworm (Cotton),COT Insecto,1.5 ml/litre,Foliar spray,Every 7 days,Boll damage; insect larvae
+Stem Rust (Barley),BAR Fungicide,2 ml/litre,Foliar spray,Every 5 days,Rust pustules on stem and leaves
+Peanut Rust,PEA Rust-Ban,2 ml/litre,Foliar spray,Every 7 days,Rust-colored pustules
+Leaf Crinkle Virus (Urd Bean),URD Antiviral,1 ml/litre,Foliar spray,Every 7 days,Crinkled leaves; stunted growth
+Tikka Leaf Spot (Groundnut),GND Spot-Fix,2 ml/litre,Foliar spray,Every 10 days,Brown circular spots
+Wilt (Chili),CHL WiltAway,3 ml/litre,Soil drench,Every 14 days,Wilt; root rot
+Shoot and Fruit Borer (Brinjal),BRN InsectGuard,2 ml/litre,Foliar spray,Every 7 days,Boring holes; fruit damage
+Dieback (Citrus),CIT Copper Mix,2.5 ml/litre,Foliar spray,Every 10 days,Drying tips; leaf drop
+Anthracnose (Guava),GUV Anthra-Kill,2 ml/litre,Foliar spray,Every 7 days,Sunken black lesions
+Panama Wilt (Banana),BAN WiltGuard,3 ml/litre,Soil drench,Every 14 days,Yellowing; leaf collapse
+Leaf Curl (Chili),CHL CurlFix,2 ml/litre,Foliar spray,Every 7 days,Leaf curling; stunted plants
